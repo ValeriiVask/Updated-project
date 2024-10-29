@@ -14,7 +14,4 @@ std::vector<unsigned long long> divisors(unsigned long long number) {
     }
     std::sort(result.begin(), result.end());
     return result;
-    git remote add origin https ://github.com/ValeriiVask/Updated-project.git
-    git branch - M main
-        git push - u origin main
 }
